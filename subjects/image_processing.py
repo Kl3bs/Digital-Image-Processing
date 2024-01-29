@@ -4,7 +4,7 @@ import cv2 as cv
 
 global img 
 
-img = cv.imread('images/mario.png')
+img = cv.imread('../images/relampago.png')
 
 def updateImage(value):
     #multiply the image by the scalar
